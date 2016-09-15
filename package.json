@@ -1,0 +1,27 @@
+{
+  "name": "json-picker",
+  "version": "0.0.1",
+  "description": "A json object picker",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://VarDking@github.com/VarDking/json-picker.git"
+  },
+  "keywords": [
+    "json",
+    "picker"
+  ],
+  "author": "VarDking",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VarDking/json-picker/issues"
+  },
+  "homepage": "https://github.com/VarDking/json-picker#readme"
+}
